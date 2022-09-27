@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.14f20bbb.js",
-    "index.html": "/index.html",
-    "main.14f20bbb.js.map": "/static/js/main.14f20bbb.js.map"
+    "main.js": "/to-do-ui-react/static/js/main.14f20bbb.js",
+    "index.html": "/to-do-ui-react/index.html",
+    "main.14f20bbb.js.map": "/to-do-ui-react/static/js/main.14f20bbb.js.map"
   },
   "entrypoints": [
     "static/js/main.14f20bbb.js"
